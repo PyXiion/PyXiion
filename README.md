@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning English and C++
 //- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-    Mail: pyxiion@hotmail.com
-    Discord: PΨXιI-0N#0766
-    Facebook: -
-    VK: -
+  - Mail: pyxiion@hotmail.com
+  - Discord: PΨXιI-0N#0766
+  - Facebook: -
+  - VK: -
 
 <!---
 PyXiion/PyXiion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
