@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PyXiion
 - 👀 I’m interested in programming (C++, C# and Lua)
 - 🌱 I’m currently learning English and C++
-//- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me
   - Mail: pyxiion@hotmail.com
   - Discord: PΨXιI-0N#0766
