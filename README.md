@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning English and C++
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me
-  - Mail: pyxiion@hotmail.com
+  - Mail: pyxiion@hotmail.com, me@pyxiion.ru
   - Discord: PΨXιI-0N#0766
   - Facebook: -
   - VK: -
