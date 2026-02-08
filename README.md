@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1b357658-5c6f-4dda-89f4-59172f83fcb8" width="15%"/>
-  <br/>
-</p>
-
-
 Hi! I'm a software developer. <br/>
 My main languages are: **C++** & **Python**. <br/>
 I also programme in: Java, Kotlin and some WEB.
@@ -16,7 +10,7 @@ I also programme in: Java, Kotlin and some WEB.
 - pxbank ([frontend](https://github.com/PyXiion/pxbank) in Vue/[backend](https://github.com/PyXiion/pxbank-back) in Python): Idk, but I wanted to build a virtual banking for a Minecraft SMP. And I built my own websocket API "framework" for backend for no apparent reason.
 
 ## Contact
-- Mail: me@pyxiion.ru
+- Mail: github@pyxiion.ru
 - Discord: @pyxiion
 - Telegram: @PyXiion
 
