@@ -15,8 +15,8 @@ I also programme in: Java, Kotlin and some WEB.
 - Telegram: @PyXiion
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyxiion&show_icons=true&locale=en&layout=compact" alt="pyxiion" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=pyxiion&show_icons=true&locale=en&layout=compact" alt="pyxiion" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pyxiion&show_icons=true&locale=en" alt="pyxiion" /></p>
+<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=pyxiion&show_icons=true&locale=en" alt="pyxiion" /></p>
 
 <p><img src="https://komarev.com/ghpvc/?username=PyXiion&color=green" width="10%"/></p>
