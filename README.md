@@ -62,7 +62,6 @@ Virtual banking for a Minecraft SMP <br/>
 </table>
 
 ## Contact
-- Matrix: @pyxiion:pyxiion.ru (prefer this)
 - Mail: github@pyxiion.ru
 - Discord: @pyxiion
 - Telegram: @PyXiion
