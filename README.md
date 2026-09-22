@@ -9,6 +9,7 @@ I also programme in: Java, Kotlin, Rust and some WEB (TS/JS).
 
 **[PxModRim](https://github.com/PyXiion/PxModRim)**  
 Fast, modern RimWorld Mod Manager  
+<img src="https://img.shields.io/github/stars/PyXiion/PxModRim?style=flat&logo=github&label=%E2%AD%90" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white" />
 
 **[PxIgnis](https://github.com/PyXiion/PxIgnis)**  
