@@ -16,6 +16,11 @@ Fast, modern RimWorld Mod Manager
 Lua scripting mod for Minecraft Fabric servers   <br/>
 <img src="https://img.shields.io/badge/Kotlin-cd44cf?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
 
+**[PxSteamDL](https://github.com/PyXiion/PxSteamDL)**  
+A C++20 tool to download Steam WorkShop items at max speed
+<img src="https://img.shields.io/github/stars/PyXiion/PxSteamDL?style=flat&logo=github&label=%E2%AD%90" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+
 **[pxkorka](https://github.com/PyXiion/pxkorka)**  
 A completely compile-time C compiler with the support of C++ bindings. Executes on a custom VM.  <br/>
 <img src="https://img.shields.io/github/stars/PyXiion/pxkorka?style=flat&logo=github&label=%E2%AD%90" />
