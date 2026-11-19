@@ -47,11 +47,11 @@ An mdbook preprocessor for interactive Q&A blocks   <br/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
 
 **[pxengine](https://github.com/PyXiion/pxengine)**  
-One of my old attempts to build my own game engine (I was 14 yo then and too stubborn for my own good). Also I protected this project in my school. <br/>
+One of my old attempts to build my own game engine. Also I protected this project in my school. <br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 
 **[DWGameEngine](https://github.com/PyXiion/DWGameEngine)**  
-Another attempt to build an engine, about 15 yo. I was haunted by some wise thoughts, but I was faster. <br/>
+Another attempt to build an engine. I was haunted by some wise thoughts, but I was faster. <br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 
 **[LC-3 Assembler](https://github.com/PyXiion/LC-3-Custom-Asm-Compiler)**  
